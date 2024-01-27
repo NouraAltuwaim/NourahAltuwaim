@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on AmanID<br><br> I’m currently learning php, web development , software Software Maintenance.<br><br> How to reach me Nourahaltuwaim@gmail.com
+I’m currently working on AmanID<br><br> I’m currently learning ReactJS.<br><br> How to reach me Nourahaltuwaim@gmail.com
 
 
 ## 🌐 Socials:
